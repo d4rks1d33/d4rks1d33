@@ -4,6 +4,9 @@ Hi 👋 I'm D4rk$1d3
 Ethical hacker
 --------------
 
+This is your hint for the CTF: 1n7h3D4rKn3s
+
+
 I've been learning pentesting for 3 years, I specialize on networking and cracking being these two my favorites. Although I also specialize in Web Application pentration testing and now I'm starting studying penetration test on mobile devices.<p align="left">
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
