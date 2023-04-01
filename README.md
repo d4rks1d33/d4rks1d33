@@ -2,9 +2,7 @@ Hi 👋 I'm d4rks1d3
 =========================
 
 Ethical hacker
---------------
-
-This is your hint for the CTF: Who am I? :arrow_up: 
+-------------- 
 
 
 I've been learning pentesting for 3 years, I specialize on networking and cracking being these two my favorites. Although I also specialize in Web Application pentration testing and now I'm starting studying penetration test on mobile devices.<p align="left">
