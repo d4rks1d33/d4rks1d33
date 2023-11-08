@@ -1,4 +1,3 @@
-I'm d4rks1d3
 =========================
 
 Ethical hacker
