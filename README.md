@@ -14,3 +14,6 @@ I've been learning pentesting for 3 years, I specialize on networking and cracki
 <a href="http://www.github.com/d4rks1d33"><img src="https://github-readme-stats.vercel.app/api?username=d4rks1d33&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="d4rks1d33's GitHub stats" /></a>
 
 <a href="https://github.com/d4rks1d33" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4rks1d33&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+```math \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url(‘https://user-images.githubusercontent.com/30528167/92789817-e4b53d80-f3b3-11ea-96a4-dad3ea09d237.png?raw=true');]{x0000}$}
