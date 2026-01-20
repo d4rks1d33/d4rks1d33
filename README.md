@@ -20,6 +20,8 @@ Since the beginning of my career, I have focused on offensive security and penet
 
   - Linux
 
+  - MacOS
+
 - Application Security
 
   - Web applications
