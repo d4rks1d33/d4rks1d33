@@ -57,6 +57,7 @@ Since the beginning of my career, I have focused on offensive security and penet
 
 ## Activity Overview
 
+![Alt](https://repobeats.axiom.co/api/embed/cc5201c0dc953a49d55fa24c40ad26812e76fa5f.svg "Repobeats analytics image")
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d4rks1d33&count_private=true&show_icons=true&theme=github_dark&rank_icon=github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rks1d33&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
